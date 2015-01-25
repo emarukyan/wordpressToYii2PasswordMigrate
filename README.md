@@ -31,13 +31,13 @@ DIRECTORY STRUCTURE
 
 This is based on yii2 advanced application template
 root
-	/_protected
-		/backend
-		/common
-			/utils
-				- WpCheckPassword.php
-				- WpCookiesCheck.php
-				- WpPasswordHash.php
-		/frontend
-			/models
-				- UserIdentity.php
+|	/_protected
+|		/backend
+|		/common
+|			/utils
+|				- WpCheckPassword.php
+|				- WpCookiesCheck.php
+|				- WpPasswordHash.php
+|		/frontend
+|			/models
+|				- UserIdentity.php
